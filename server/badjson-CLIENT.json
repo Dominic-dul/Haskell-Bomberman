@@ -1,0 +1,29 @@
+{
+    "command": {
+        "name": "MoveBomberman",
+        {
+            "direction": "Right"
+        }
+    },
+    {
+        "additional": {
+            "command": {
+                "name": "FetchSurrounding"
+            },
+            {
+                "additional": {
+                    "command": {
+                        "name": "FetchBombStatus"
+                    },
+                    {
+                        "additional": {
+                            "command": {
+                                "name": "FetchBombSurrounding"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

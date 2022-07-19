@@ -1,0 +1,14 @@
+{
+  "body": {
+    "content": "eyJjb21tYW5kIjp7Im5hbWUiOiJNb3ZlQm9tYmVybWFuIiwiZGlyZWN0aW9uIjoiUmlnaHQifSwiYWRkaXRpb25hbCI6eyJjb21tYW5kIjp7Im5hbWUiOiJNb3ZlQm9tYmVybWFuIiwiZGlyZWN0aW9uIjoiUmlnaHQifSwiYWRkaXRpb25hbCI6eyJjb21tYW5kIjp7Im5hbWUiOiJNb3ZlQm9tYmVybWFuIiwiZGlyZWN0aW9uIjoiUmlnaHQifX19fQ==",
+    "file": "c:\\Users\\Katukas\\fp-2021-project\\server\\test.json",
+    "fileSize": 196
+  },
+  "headers": {
+    "content-length": "196",
+    "content-type": "application/json"
+  },
+  "method": "POST",
+  "title": "New HTTP Request",
+  "url": "http://localhost:3000/game/1"
+}
