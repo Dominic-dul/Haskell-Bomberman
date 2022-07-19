@@ -1,4 +1,5 @@
-# bomberman-server
+# Bomberman Client + Bomberman Server
+The client and server are written using Haskell programming language.
 The server is run on Haskell using Yesod as its web framework.
 ## Main API Functions
 - POST newGame
